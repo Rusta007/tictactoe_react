@@ -12,3 +12,4 @@
     2. if..else..
 - Event Handling
 
+[![Alt Text](/images/mygif.gif)](http://www.google.com){:target="_blank"}
