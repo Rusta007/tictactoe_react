@@ -5,6 +5,10 @@
 
 ## Used Topics:
 - React 
+- Functional Component
 - Hooks
 - Conditional Rendering
-    1. Logical 
+    1. Logical && Operator
+    2. if..else..
+- Event Handling
+
